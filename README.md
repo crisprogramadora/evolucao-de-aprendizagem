@@ -2,64 +2,66 @@
 
 Desafio de carreira do módulo 02
 
-Conteúdos a serem trabalhados nesse módulo:
+# Conteúdos a serem trabalhados nesse módulo:
 
-Soft skills
+* Funções
 
-LinkedIn
+* Tipos de dados II
 
-Ética em tecnologia
+* Tipos Utilitários
 
-Gestão de tempo
+* Métodos de Strings
 
-Git básico
+* Métodos de Arrays
 
-Introdução a TypeScript
+* Métodos de Arrays II
 
-Métodos de strings
+* Métodos de Arrays III
 
-Métodos de arrays
+# O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+* Ainda não sei o que são funções ou para que servem.
 
-Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
+* Conheço os tipos de dados: string (que guardam cadeias de caracteres), number (que guardam números, que podem ser inteiros ou decimais) e boolean (que guardam true(verdadeiro) ou false (falso).
 
-LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
+* Ainda não sei o que seriam tipos utilitários.
 
-Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
+* Sei que strings são cadeias de caracteres, mas, não sei o que é método de string.
 
-Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
+* Sei que arrays sevem para guardar listas, que podem ser palavras ou números, mas, ainda não sei o que é método de arrays.
 
-Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
+* Por enquanto não sei o que são métodos de arrays II, acredito que seja mais avançado que os métodos de arrays.
 
-TypeScript é uma linguagem de programação relacionada ao JavaScript.
+* Infelizmente não sei o que são métodos de arrays III, mas estou ansiosa para aprender, pois, provavelmente são mais avançados que os métodos anteriores e tornarão os códigos mais eficientes.
 
-Métodos de strings são maneiras de manipular texto em programação.
+# O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+* Como usar as funções para tornar meus códigos mais avançados?
 
-Como posso desenvolver minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia?
+* Quero saber quais outros tipos de dados existem além dos que já conheço.
 
-Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
+* Gostaria de descobrir o que são tipos utilitários e para quê são utilizados.
 
-Gostaria de entender melhor o que é ética em tecnologia e por que é importante.
+* O que são métodos de strings e como posso usá-los no meu código?
 
-Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
+* Como os métodos de arrays funcionam?
 
-Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferencia do JavaScript.
+* O que os métodos de arrays II fazem além do anterior?
 
-Quero saber o que são métodos de arrays.
+* Quais os avanços que os métodos de arrays III trarão para o meu dia a dia como programadora?
 
-Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+# Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
+* Aprendi que funções são ...
 
-Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
+* Descobri que ...
 
-Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
+* Identifiquei ...
 
-Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
+* Fui capaz de definir ...
 
-Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
+* Desvendei o funcionamento...
 
-Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+* Agora sei especificar as diferenças...
+
+* Posso determinar que ...  
