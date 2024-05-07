@@ -52,7 +52,7 @@ Desafio de carreira do módulo 02
 
 # Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-* Aprendi que funções são ...
+* Aprendi que funções são uma forma de deixar os códigos mais simples e fazer o reuso desses códigos evitando retrabalho e criando códigos menores.
 
 * Descobri que ...
 
