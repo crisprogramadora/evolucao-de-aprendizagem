@@ -1,6 +1,6 @@
 # evolucao-de-aprendizagem
 
-Desafio de carreira do módulo 02
+Desafio de carreira do módulos 02 e 03
 
 # Conteúdos a serem trabalhados nesse módulo:
 
